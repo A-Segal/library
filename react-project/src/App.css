@@ -1,0 +1,62 @@
+div {
+  text-align: center;
+  color: rgb(3, 93, 212);
+  font-size: 25px
+}
+
+p {
+  color: rgb(3, 93, 212)
+}
+
+#link {
+
+  text-decoration: none;
+  color: rgb(3, 93, 212);
+  margin-top: 20px;
+}
+
+#connect {
+  color: rgb(3, 93, 212);
+  font-size: 10px
+}
+
+
+#formLogin {
+  display: flex;
+  flex-direction: column;
+  border-radius: 50px;
+  border: 10px, solid, rgb(3, 93, 212);
+  width: 600px;
+  height: 400px;
+
+}
+
+#input1 {
+
+  margin-top: 100px;
+  width: 400px;
+  margin-left: 100px;
+}
+
+#menuButton {
+  margin-top: -10px;
+  font-size: 20px;
+}
+
+#EntryP {
+  color: rgb(3, 93, 212);
+  font-size: 40px;
+}
+
+#input {
+  border-radius: 30px;
+  border: 10px, solid, rgb(3, 93, 212);
+  height: 600px;
+  width: 700px;
+}
+#comment{
+  text-align: left;
+  font-size:15px;
+  color:black
+  
+}
